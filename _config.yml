@@ -1,0 +1,28 @@
+name: andedit
+favicon: null
+layout_spectrum: 0.6248529788572341
+typography_spectrum: 0.04508277913555503
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8644837525207549
+  lightness: 0.4323864209000021
+  saturation: 0.9238593787886202
+  rhythmicContrast: 0.2902707748580724
+purpose: []
